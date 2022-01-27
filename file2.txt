@@ -1,3 +1,5 @@
+new line for conflict with master branch
 123456
 hello
 I want to cry
+So much
