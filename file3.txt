@@ -1,1 +1,2 @@
 new line for conflict with master branch on github
+new conflict in new branch
